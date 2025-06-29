@@ -1,0 +1,26 @@
+body {
+    width: 400px;
+    height: 200px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 0;
+    border-radius: 60;
+    background-image:url("backimg.jpg");
+}
+
+p {
+    display: flex;
+    align-items: center; 
+    margin: 0 15px;
+    font-size: 20px;
+    color: #000000;
+    background-color: #fcf879;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    padding: 12px 15px;
+    text-align: center;
+    font-weight: 500;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
+}
